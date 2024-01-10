@@ -34,3 +34,6 @@ build/
 
 
 ### The project ###
+**/mvnw.cmd
+**/mvnw
+**/.mvn
