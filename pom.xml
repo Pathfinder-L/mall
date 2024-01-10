@@ -13,6 +13,10 @@
 
     <modules>
         <module>mall-coupon</module>
+        <module>mall-member</module>
+        <module>mall-order</module>
+        <module>mall-product</module>
+        <module>mall-ware</module>
     </modules>
 
 

@@ -31,10 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-
-### The project ###
-**/mvnw.cmd
-**/mvnw
-**/.mvn
-**/target
